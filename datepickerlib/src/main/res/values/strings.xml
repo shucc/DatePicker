@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pop_date_picker_birthday">选择日期</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+</resources>
